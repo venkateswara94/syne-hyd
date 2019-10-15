@@ -1,5 +1,5 @@
 test:
-  message: SYN-249
+  message: HYDER
   
 server:
   port: 3344
